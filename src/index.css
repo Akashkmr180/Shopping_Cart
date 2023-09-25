@@ -99,3 +99,9 @@ h2 {
 .footer {
   min-height: 3rem;
 }
+.__card__{
+  width: 18rem;
+  height: 25rem;
+  overflow: hidden;
+  object-fit: cover;
+}
